@@ -29,9 +29,12 @@ Connect the supply (+5V) to the circuit Switch ON the main switch If the output 
 
 Program: /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */ Logic symbol & Truthtable RTL realization
-
-Output:<br>
+![](https://github.com/yuvasri2005/subtractor/blob/0b7dd4712ae66381488762aab68e1b2de05c5b4d/Images/IMG_20230416_125920.jpg) 
+Output:<br>![](https://github.com/yuvasri2005/subtractor/blob/0b7dd4712ae66381488762aab68e1b2de05c5b4d/Images/IMG_20230416_130122.jpg)
 RTL<br>
 TIMING DIAGRAM<br>
+![](https://github.com/yuvasri2005/subtractor/blob/0b7dd4712ae66381488762aab68e1b2de05c5b4d/Images/IMG_20230416_130049.jpg) 
 TRUTH TABLE<br>
+![](https://github.com/yuvasri2005/subtractor/blob/0b7dd4712ae66381488762aab68e1b2de05c5b4d/Images/IMG_20230416_130155.jpg) 
 Result:<br>
+ 
