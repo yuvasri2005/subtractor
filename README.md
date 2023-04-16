@@ -20,8 +20,10 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 Figure -01 HALF ADDER
 image
-
+![](https://github.com/yuvasri2005/subtractor/blob/51d2d9fe8db940cba556315b8c3bf1b9b4f3ebc1/Images/IMG_20230416_125941.jpg
+) 
 Figure -02 FULL ADDER
+![](
 **Procedure**
 Connect the supply (+5V) to the circuit Switch ON the main switch If the output is 1, then the led glows.
 
